@@ -65,6 +65,13 @@
 
 ### 🔤 Programming Languages
 <div align="center">
+  <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Java.png" title="Java" alt="Java" width="55" height="55"/>
+  <img src="https://github.com/PR2309/PR2309/blob/main/Logos/C.png" title="C Programming" alt="C Programming" width="55" height="55"/>
+  <img src="https://github.com/PR2309/PR2309/blob/main/Logos/C.webp" title="C++" alt="C++" width="55" height="55"/>
+
+</div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Java.png" title="Java" alt="Java" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>
