@@ -203,7 +203,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/MongoDB_Database.pmg" title="MongoDB" alt="MongoDB" width="55" height="55"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/MongoDB_Database.png" title="MongoDB" alt="MongoDB" width="55" height="55"/>
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Express.Js.png" title="Express.js" alt="Express.js" width="55" height="55"/>
