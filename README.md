@@ -28,16 +28,14 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/PR2309/PR2309/main/Media/beyond the other side.gif">
-<p align="left"></p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/PR2309/PR2309/main/Media/beyond%20the%20other%20side.gif">
 
 ## About Me 👨‍💻
-
-    - 🧰 I’m a Full Stack Web Developer with experience in modern frameworks and technologies including **Node.js**, **React.js**, **Laravel**, and **Django**.
-    - 🌱 Continuously learning and expanding my skill set to build scalable, efficient, and user-friendly web applications.
-    - 💡 Passionate about solving real-world problems, sharing knowledge, and collaborating with others in the tech community.
-    - 📫 Feel free to connect with me at **piyushanand2309@gmail.com** — let’s build something great together!
-    - 🚩 **Note:** Actively exploring new technologies and improving existing projects. Contributions may reflect over time as I work on enhancing my GitHub profile.
+  - 🧰 I’m a Full Stack Web Developer with experience in modern frameworks and technologies including **Node.js**, **React.js**, **Laravel**, and **Django**.
+  - 🌱 Continuously learning and expanding my skill set to build scalable, efficient, and user-friendly web applications.
+  - 💡 Passionate about solving real-world problems, sharing knowledge, and collaborating with others in the tech community.
+  - 📫 Feel free to connect with me at **piyushanand2309@gmail.com** — let’s build something great together!
+  - 🚩 **Note:** Actively exploring new technologies and improving existing projects. Contributions may reflect over time as I work on enhancing my GitHub profile.
 
 ---
 
