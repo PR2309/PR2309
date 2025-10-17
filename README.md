@@ -91,6 +91,9 @@
     <td align="center">
       <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/PHP.png" title="PHP" alt="PHP" width="80" height="65"/>
     </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/BrainFvck.png" title="BrainFvck" alt="BrainFvck" width="80" height="65"/>
+    </td>
   </tr>
 </table>
 
