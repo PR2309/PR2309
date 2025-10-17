@@ -26,48 +26,52 @@
   </a>
 </p>
 
----
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/PR2309/PR2309/main/Media/beyond%20the%20other%20side.gif">
-
-## About Me 👨‍💻
+<!-- <img align="right" alt="Coding" width="400" src="https://github.com/PR2309/PR2309/blob/main/Logos/Media/beyond%20the%20other%20side.gif?raw=true"> -->
+--- 
+  ## About Me 👨‍💻
   - 🧰 I’m a Full Stack Web Developer with experience in modern frameworks and technologies including **Node.js**, **React.js**, **Laravel**, and **Django**.
   - 🌱 Continuously learning and expanding my skill set to build scalable, efficient, and user-friendly web applications.
   - 💡 Passionate about solving real-world problems, sharing knowledge, and collaborating with others in the tech community.
   - 📫 Feel free to connect with me at **piyushanand2309@gmail.com** — let’s build something great together!
   - 🚩 **Note:** Actively exploring new technologies and improving existing projects. Contributions may reflect over time as I work on enhancing my GitHub profile.
-
 ---
 
 ## Connect with Me 🤝
 <div align="center">
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://linkedin.com/in/piyushanand30" target="_blank">
-        <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/LinkedIn.png" alt="LinkedIn" height="65" width="65" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:piyushanand2309@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Gmail.png" alt="Gmail" height="55" width="55" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://piyushanand-portfolio.netlify.app" target="_blank">
-        <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Profile.png" alt="Gmail" height="55" width="55" />
-      </a>
-    </td>
-  </tr>
-</table>
 
-<p align="center">**Let’s Connect!** I’m excited to network with professionals and enthusiasts. Feel free to reach out!</p>
+  <img align="right" alt="Coding" width="400" src="https://github.com/PR2309/PR2309/blob/main/Logos/Media/beyond%20the%20other%20side.gif?raw=true">
+  <div align="left" style="height:fit-content; margin:auto 10px auto 10px">
+  <table align="center">
+    <tr>
+      <td align="center">
+        <a href="https://linkedin.com/in/piyushanand30" target="_blank">
+          <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/LinkedIn.png" alt="LinkedIn" height="65" width="65" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:piyushanand2309@gmail.com" target="_blank">
+          <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Gmail.png" alt="Gmail" height="55" width="55" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://piyushanand-portfolio.netlify.app" target="_blank">
+          <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Profile.png" alt="Gmail" height="55" width="55" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  <div align="left">
+    <p align="center"><b>Let’s Connect!</b></p>
+    <p align="center">I’m excited to network with professionals and enthusiasts.</p>
+    <p align="center">Feel free to reach out!</p>
+  </div>
 </div>
----
+</div>
+<br/>
 
 ## Languages and Tools 🛠️
 
-### Programming Languages
+### ✨ Programming Languages
 <table>
   <tr>
     <td align="center">
@@ -89,7 +93,7 @@
       <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/JavaScript.png" title="JavaScript" alt="JavaScript" width="45" height="55"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/PHP.png" title="PHP" alt="PHP" width="80" height="65"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/PHP.png" title="PHP" alt="PHP" width="60" height="65"/>
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/BrainFvck.png" title="BrainFvck" alt="BrainFvck" width="60" height="65"/>
@@ -220,7 +224,6 @@
     </td>
   </tr>
 </table>
-
 ---
 
 
@@ -228,15 +231,47 @@
 ## GitHub Stats 📊
 
 <p align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&preferLogin=false&Text=FFFFFF&Ring=C2CB15&Title=C2CB15&Background=000000&Border=000000">
-    <img alt="PR2309's GitHub Stats" title="PR2309's GitHub Stats" src="https://awesome-g` ithub-stats.azurewebsites.net/user-stats/pr2309?cardType=level&theme=github-dark&preferLogin=false&Text=FFFFFF&Ring=C2CB15&Title=C2CB15&Background=000000&Border=000000" />
-  </a>
+  <img height="50%" width="auto" src="https://streak-stats.demolab.com?user=PR2309&theme=tokyonight&hide_border=true&background=FFFFFF00" alt="PR2309's Streak" title="PR2309's Streak" style="object-fit: cover;" />
+  <br/>
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=PR2309&theme=transparent&hide_border=true&background=00000000" alt="PR2309's Stats" title="PR2309's Stats" style="object-fit: cover;" />
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PR2309&layout=compact&theme=transparent&hide_border=true&background=00000000&langs_count=10&hide=exe,txt,Jupyter%20Notebook,Typescript,SCSS,Hack,Blade&exclude_repo=Games,Icons" alt="PR2309's Skills" title="PR2309's Skills" style="object-fit: cover;" />
 </p>
 
+
+---
+
+## Project Repos 📝
 <p align="center" >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pr2309&theme=highcontrast&hide_border=true" alt="PR2309's Streak" title="PR2309's Streak" />
+  <a href="https://github.com/PR2309/AI-Sentinal">
+    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=PR2309&repo=AI-Sentinal&theme=transparent&border_color=3e424b&border_radius=10" title="AI Sentinal Prototype" />
+  </a>
+  <a href="https://github.com/PR2309/INT252_Horizon_Website">
+    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=PR2309&repo=INT252_Horizon_Website&theme=transparent&border_color=3e424b&border_radius=10" title="INT252_Horizon_Website" />
+  </a>
+  <a href="https://github.com/PR2309/SpeakX">
+    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=PR2309&repo=SpeakX&theme=transparent&border_color=3e424b&border_radius=10" title="SpeakX" />
+  </a>
+  <a href="https://github.com/PR2309/Balajee-Sales">
+    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=PR2309&repo=Balajee-Sales&theme=transparent&border_color=3e424b&border_radius=10" title="Balajee-Sales" />
+  </a>
+  <a href="https://github.com/PR2309/QR_Code-Scanner">
+    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=PR2309&repo=QR_Code-Scanner&theme=transparent&border_color=3e424b&border_radius=10" title="QR_Code-Scanner" />
+  </a>
+  <a href="https://github.com/PR2309/CHE110_Project">
+    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=PR2309&repo=CHE110_Project&theme=transparent&border_color=3e424b&border_radius=10" title="CHE110_Project" />
+  </a>
+  <a href="https://github.com/PR2309/Quiz_Game">
+    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=PR2309&repo=Quiz_Game&theme=transparent&border_color=3e424b&border_radius=10" title="Quiz_Game" />
+  </a>
+  <a href="https://github.com/PR2309/My_Reader">
+    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=PR2309&repo=My_Reader&theme=transparent&border_color=3e424b&border_radius=10" title="MyReader"/>
+  </a>
+  <a href="https://github.com/PR2309/SparkV_FrontEnd">
+    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=PR2309&repo=SparkV_FrontEnd&theme=transparent&border_color=3e424b&border_radius=10" title="SparkV Frontend" />
+  </a>
+  <a href="https://github.com/PR2309/Server">
+    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=PR2309&repo=Server&theme=transparent&border_color=3e424b&border_radius=10" title="SparkV Backend" />
+  </a>
+  <!-- Customization  guide for links at: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#customization -->
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr2309&theme=highcontrast&hide_border=true&border_radius=5&card_width=600" title="Top Languages" alt="Top Languages" />
-</p>
