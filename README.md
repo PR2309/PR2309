@@ -83,7 +83,7 @@
       <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/C++.png" title="C++" alt="C++" width="60" height="60"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/CSharp.png" title="C#" alt="C#" width="70" height="65"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/CSharp.png" title="C#" alt="C#" width="55" height="60"/>
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/JavaScript.png" title="JavaScript" alt="JavaScript" width="45" height="55"/>
@@ -92,7 +92,7 @@
       <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/PHP.png" title="PHP" alt="PHP" width="80" height="65"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/BrainFvck.png" title="BrainFvck" alt="BrainFvck" width="80" height="65"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/BrainFvck.png" title="BrainFvck" alt="BrainFvck" width="60" height="65"/>
     </td>
   </tr>
 </table>
@@ -175,6 +175,9 @@
     <!-- <td align="center">
       <img src="https://raw.githubusercontent.com/thunderclient/thunder-client-support/master/images/thunder-icon.png" title="Thunder Client" alt="Thunder Client" width="55" height="55"/>
     </td> -->
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/LaTeX.png" title="LaTeX" alt="LaTeX" width="60" height="65" />
+    </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Weebly.png" title="Weebly" alt="Weebly" width="55" height="55"/>
     </td>
