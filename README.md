@@ -22,7 +22,8 @@
   <!--
   <img src="https://github-profile-trophy.vercel.app/?username=pr2309&theme=juicyfresh&column=6&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN" alt="GitHub Trophies" />
   -->
-    <img src="https://github-profile-trophy.vercel.app/?username=pr2309&theme=dracula&column=6&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN" alt="GitHub Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=PR2309&theme=dracula&column=6" alt="GitHub Trophies" />
+    <!-- <img src="https://github-profile-trophy.vercel.app/?username=pr2309&theme=dracula&column=6&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN" alt="GitHub Trophies" /> -->
   </a>
 </p>
 
