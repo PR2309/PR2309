@@ -227,7 +227,11 @@
 </table>
 ---
 
+## 📈 GitHub Activity Graph
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PR2309&theme=github-dark&hide_border=true&area=true)
+
+---
 
 ## GitHub Stats 📊
 
