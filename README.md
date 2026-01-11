@@ -34,7 +34,7 @@
   - 🌱 Continuously learning and expanding my skill set to build scalable, efficient, and user-friendly web applications.
   - 💡 Passionate about solving real-world problems, sharing knowledge, and collaborating with others in the tech community.
   - 📫 Feel free to connect with me at **piyushanand2309@gmail.com** — let’s build something great together!
-  - 🚩 **Note:** Actively exploring new technologies and improving existing projects. Contributions may reflect over time as I work on enhancing my GitHub profile.
+  - 🚩 **Note:** Actively exploring new technologies and improving existing projects in various fields. Contributions may reflect over time as I work on enhancing my GitHub profile.
 ---
 
 ## Connect with Me 🤝
