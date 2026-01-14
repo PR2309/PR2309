@@ -39,10 +39,7 @@
 
 ## Connect with Me 🤝
 <div align="center">
-  <div align="right">
-    <img align="right" alt="Coding" width="400" src="https://github.com/PR2309/PR2309/blob/main/Logos/Media/beyond%20the%20other%20side.gif?raw=true"/>
-    <br/><br/>
-  </div>
+  <img align="right" alt="Coding" width="400" src="https://github.com/PR2309/PR2309/blob/main/Logos/Media/beyond%20the%20other%20side.gif?raw=true"/>
   <div align="left" style="height:fit-content; margin:auto 10px auto 10px">
   <table align="center">
     <tr>
