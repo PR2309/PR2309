@@ -1,4 +1,4 @@
-  ![Code](https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif)
+![Code](https://github.com/PR2309/Testing/blob/main/Cover1.gif?raw=true")
 
 <h1 align="center">Hi 👋, I'm Piyush Anand</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from India</h3>
@@ -39,8 +39,10 @@
 
 ## Connect with Me 🤝
 <div align="center">
-
-  <img align="right" alt="Coding" width="400" src="https://github.com/PR2309/PR2309/blob/main/Logos/Media/beyond%20the%20other%20side.gif?raw=true">
+  <div align="right">
+    <img align="right" alt="Coding" width="400" src="https://github.com/PR2309/PR2309/blob/main/Logos/Media/beyond%20the%20other%20side.gif?raw=true"/>
+    <br/><br/>
+  </div>
   <div align="left" style="height:fit-content; margin:auto 10px auto 10px">
   <table align="center">
     <tr>
