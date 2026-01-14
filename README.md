@@ -1,4 +1,4 @@
-![Code](https://github.com/PR2309/Testing/blob/main/Cover1.gif?raw=true")
+![Code](https://github.com/PR2309/PR2309/blob/main/Logos/Media/Cover1.gif?raw=true")
 
 <h1 align="center">Hi 👋, I'm Piyush Anand</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from India</h3>
