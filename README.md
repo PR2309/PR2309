@@ -201,9 +201,10 @@
     <td>
       <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/PromptEngineering.png" title="Prompt Engineering" alt="Prompt Engineering" width="50" height="55" />
     </td>
-    <!-- <td>
-      <img src="Responsive Design.png" title="Responsive Design" alt="Responsive Design" width="55" height="55" />
-    </td> -->
+    <td>
+      <!-- <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/ResponsiveDesign.png" title="Responsive Design" alt="Responsive Design" width="55" height="55" /> -->
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/ResponsiveDesign.png" title="Responsive Design" alt="Responsive Design" width="55" height="55" />
+    </td>
   </tr>
 </table>
 
@@ -246,6 +247,19 @@
 
 ## Project Repos 📝
 <p align="center" >
+  <a href="https://github.com/PR2309/Protoverse-App">
+    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=PR2309&repo=Protoverse-App&theme=transparent&border_color=3e424b&border_radius=10" title="Protoverse App" />
+  </a>
+  <a href="https://github.com/PR2309/Frontend-Interview">
+    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=PR2309&repo=Frontend-Interview&theme=transparent&border_color=3e424b&border_radius=10" title="CA Monk Blogger Site" />
+  </a>
+  <!-- <a href="https://github.com/PR2309/dev-env">
+    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=PR2309&repo=dev-env&theme=transparent&border_color=3e424b&border_radius=10" title="Development Envionment Manager" />
+  </a> -->
+  </a>
+  <!-- <a href="https://github.com/PR2309/dev-env">
+    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=PR2309&repo=dev-env&theme=transparent&border_color=3e424b&border_radius=10" title="Development Envionment Manager" />
+  </a> -->
   <a href="https://github.com/PR2309/AI-Sentinal">
     <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=PR2309&repo=AI-Sentinal&theme=transparent&border_color=3e424b&border_radius=10" title="AI Sentinal Prototype" />
   </a>
