@@ -253,13 +253,12 @@
   <a href="https://github.com/PR2309/Frontend-Interview">
     <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=PR2309&repo=Frontend-Interview&theme=transparent&border_color=3e424b&border_radius=10" title="CA Monk Blogger Site" />
   </a>
-  <!-- <a href="https://github.com/PR2309/dev-env">
+  <a href="https://github.com/PR2309/dev-env">
     <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=PR2309&repo=dev-env&theme=transparent&border_color=3e424b&border_radius=10" title="Development Envionment Manager" />
-  </a> -->
   </a>
-  <!-- <a href="https://github.com/PR2309/dev-env">
-    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=PR2309&repo=dev-env&theme=transparent&border_color=3e424b&border_radius=10" title="Development Envionment Manager" />
-  </a> -->
+  <a href="https://github.com/PR2309/Weather-App">
+    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=PR2309&repo=Weather-App&theme=transparent&border_color=3e424b&border_radius=10" title="Weather App" />
+  </a>
   <a href="https://github.com/PR2309/AI-Sentinal">
     <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=PR2309&repo=AI-Sentinal&theme=transparent&border_color=3e424b&border_radius=10" title="AI Sentinal Prototype" />
   </a>
