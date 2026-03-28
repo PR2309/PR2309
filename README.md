@@ -75,28 +75,28 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Python.png" title="Python" alt="Python" width="55" height="55"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/Languages/Python.png" title="Python" alt="Python" width="55" height="55"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Java.png" title="Java" alt="Java" width="55" height="55"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/Languages/Java.png" title="Java" alt="Java" width="55" height="55"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/C.png" title="C" alt="C" width="50" height="55"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/Languages/C.png" title="C" alt="C" width="50" height="55"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/C++.png" title="C++" alt="C++" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/Languages/C++.png" title="C++" alt="C++" width="60" height="60"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/CSharp.png" title="C#" alt="C#" width="55" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/Languages/CSharp.png" title="C#" alt="C#" width="55" height="60"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/JavaScript.png" title="JavaScript" alt="JavaScript" width="45" height="55"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/Languages/JavaScript.png" title="JavaScript" alt="JavaScript" width="60" height="55"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/PHP.png" title="PHP" alt="PHP" width="60" height="65"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/Languages/PHP.png" title="PHP" alt="PHP" width="60" height="65"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/BrainFvck.png" title="BrainFvck" alt="BrainFvck" width="60" height="65"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/Languages/BrainFvck.png" title="BrainFvck" alt="BrainFvck" width="60" height="65"/>
     </td>
   </tr>
 </table>
@@ -105,7 +105,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Bootstrap.png" title="Bootstrap" alt="Bootstrap" width="60" height="65"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/LogosSkills/LibrariesAndFrameworks//Bootstrap.png" title="Bootstrap" alt="Bootstrap" width="60" height="65"/>
     </td>
     <!-- <td align="center">
       <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg" title="TailwindCSS" alt="Tailwind CSS" width="55" height="55" />
@@ -114,28 +114,28 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="55" height="55"/>
     </td> -->
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/jQuery.png" title="jQuery" alt="jQuery" width="60" height="65"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/jQuery.png" title="jQuery" alt="jQuery" width="60" height="65"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/React.Js.png" title="React.js" alt="React.js" width="60" height="70"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/React.Js.png" title="React.js" alt="React.js" width="60" height="70"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Express.Js.png" title="Express.js" alt="Express.js" width="55" height="55"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/Express.Js.png" title="Express.js" alt="Express.js" width="55" height="55"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Node.Js.png" title="Node.js" alt="Node.js" width="55" height="55"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/Node.Js.png" title="Node.js" alt="Node.js" width="55" height="55"/>
     </td>
     <!-- <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Angular.Js.png" title="Angular.js" alt="Angular.js" width="60" height="65"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/Angular.Js.png" title="Angular.js" alt="Angular.js" width="60" height="65"/>
     </td> -->
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Laravel.png" title="Laravel" alt="Laravel" width="55" height="65"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/Laravel.png" title="Laravel" alt="Laravel" width="55" height="65"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Django.png" title="Django" alt="Django" width="55" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/Django.png" title="Django" alt="Django" width="55" height="60"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Tkinter.png" title="Tkinter" alt="Tkinter" width="55" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/Tkinter.png" title="Tkinter" alt="Tkinter" width="55" height="60"/>
     </td>
   </tr>
 </table>
@@ -144,49 +144,49 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/MongoDB_Database.png" title="MongoDB" alt="MongoDB" width="55" height="55"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/Databases/MongoDB_Database.png" title="MongoDB" alt="MongoDB" width="55" height="55"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/MySQL_Database.png" title="MySQL" alt="MySQL" width="55" height="55"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/Databases/MySQL_Database.png" title="MySQL" alt="MySQL" width="55" height="55"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/PostgreSQL_Database.png" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/Databases/PostgreSQL_Database.png" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/SQLite_Database.png" title="SQLite" alt="SQLite" width="45" height="50"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/Databases/SQLite_Database.png" title="SQLite" alt="SQLite" width="45" height="50"/>
     </td>
   </tr>
 </table>
 
-### 📦 Tools & Platforms
+### 📦 Tools & Technologies
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/HTML.png" title="HTML5" alt="HTML5" width="45" height="55"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/ToolsAndTechnology/HTML.png" title="HTML5" alt="HTML5" width="60" height="55"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/CSS.png" title="CSS3" alt="CSS3" width="45" height="55"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/ToolsAndTechnology/CSS.png" title="CSS3" alt="CSS3" width="60" height="55"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Git.png" title="Git" alt="Git" width="55" height="55"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/ToolsAndTechnology/Git.png" title="Git" alt="Git" width="55" height="55"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/GitHub.png" title="GitHub" alt="GitHub" width="55" height="55"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/ToolsAndTechnology/GitHub.png" title="GitHub" alt="GitHub" width="55" height="55"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Postman.png" title="Postman" alt="Postman" width="55" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/ToolsAndTechnology/Postman.png" title="Postman" alt="Postman" width="55" height="60"/>
     </td>
     <!-- <td align="center">
       <img src="https://raw.githubusercontent.com/thunderclient/thunder-client-support/master/images/thunder-icon.png" title="Thunder Client" alt="Thunder Client" width="55" height="55"/>
     </td> -->
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/LaTeX.png" title="LaTeX" alt="LaTeX" width="60" height="65" />
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/ToolsAndTechnology/LaTeX.png" title="LaTeX" alt="LaTeX" width="60" height="65" />
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Weebly.png" title="Weebly" alt="Weebly" width="55" height="55"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/ToolsAndTechnology/Weebly.png" title="Weebly" alt="Weebly" width="55" height="55"/>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Cisco.png" title="Cisco" alt="Cisco" width="55" height="75"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/ToolsAndTechnology/Cisco.png" title="Cisco" alt="Cisco" width="55" height="75"/>
     </td>
   </tr>
 </table>
@@ -196,35 +196,151 @@
 <table>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/SEO.png" title="Search Engine Optimization" alt="SEO" width="50" height="55" />
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/AdditionalSkills/SEO.png" title="Search Engine Optimization" alt="SEO" width="50" height="55" />
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/PromptEngineering.png" title="Prompt Engineering" alt="Prompt Engineering" width="50" height="55" />
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/AdditionalSkills/PromptEngineering.png" title="Prompt Engineering" alt="Prompt Engineering" width="50" height="55" />
     </td>
     <td>
-      <!-- <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/ResponsiveDesign.png" title="Responsive Design" alt="Responsive Design" width="55" height="55" /> -->
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/ResponsiveDesign.png" title="Responsive Design" alt="Responsive Design" width="55" height="55" />
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/AdditionalSkills/ResponsiveDesign.png" title="Responsive Design" alt="Responsive Design" width="55" height="55" />
     </td>
   </tr>
 </table>
 
-## MERN Stack Developer 🚀
+---
+
+## Full Stack Technologies 🚀
+
 <table>
+  <!-- MERN -->
   <tr>
+    <td align="center"><b>MERN</b></td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/MongoDB_Database.png" title="MongoDB" alt="MongoDB" width="55" height="55"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/Databases/MongoDB.png" title="MongoDB" alt="MongoDB" width="50" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/Express.Js.png" title="Express.js" alt="Express.js" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/React.Js.png" title="React.js" alt="React.js" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/Node.Js.png" title="Node.js" alt="Node.js" width="60" height="60"/>
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Express.Js.png" title="Express.js" alt="Express.js" width="55" height="55"/>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/React.Js.png" title="React.js" alt="React.js" width="55" height="55"/>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Node.Js.png" title="Node.js" alt="Node.js" width="55" height="55"/>
-    </td>
+    <td align="center">MongoDB + Express + React.js + Node.js</td>
   </tr>
-</table>
+
+  <!-- MEAN -->
+  <!-- <tr>
+    <td align="center"><b>MEAN</b></td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/Databases/MongoDB.png" title="MongoDB" alt="MongoDB" width="50" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/Express.Js.png" title="Express.js" alt="Express.js" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/Angular.png" title="Angular" alt="Angular" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/Node.Js.png" title="Node.js" alt="Node.js" width="60" height="60"/>
+    </td>
+    <td align="center">MongoDB + Express + Angular.js + Node.js</td>
+  </tr> -->
+
+  <!-- MEVN -->
+  <!-- <tr>
+    <td align="center"><b>MEVN</b></td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/Databases/MongoDB.png" title="MongoDB" alt="MongoDB" width="50" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/Express.Js.png" title="Express.js" alt="Express.js" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/Vue.Js.png" title="Vue.js" alt="Vue.js" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/Node.Js.png" title="Node.js" alt="Node.js" width="60" height="60"/>
+    </td>
+    <td align="center">MongoDB + Express + Vue.js + Node.js</td>
+  </tr> -->
+
+  <!-- PERN -->
+  <!-- <tr>
+    <td align="center"><b>PERN</b></td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/Databases/PostgreSQL.png" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/Express.Js.png" title="Express.js" alt="Express.js" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/React.Js.png" title="React.js" alt="React.js" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/Node.Js.png" title="Node.js" alt="Node.js" width="60" height="60"/>
+    </td>
+    <td align="center">PostgreSQL + Express + React + Node.js</td>
+  </tr> -->
+
+  <!-- LAMP -->
+  <!-- <tr>
+    <td align="center"><b>LAMP</b></td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/Linux.png" title="Linux" alt="Linux" width="55" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/Apache.png" title="Apache" alt="Apache" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/Databases/MySQL.png" title="MySQL" alt="MySQL" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/Languages/PHP.png" title="PHP" alt="PHP" width="60" height="60"/>
+    </td>
+    <td align="center">Linux + Apache + MySQL + PHP</td>
+  </tr> -->
+
+  <!-- JAM -->
+  <!-- <tr>
+    <td align="center"><b>JAM</b></td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/React.Js.png" title="React.js" alt="React.js" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/Vue.Js.png" title="Vue.js" alt="Vue.js" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/Next.Js.png" title="Next.js" alt="Next.js" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/Databases/Firebase.png" title="Firebase" alt="Firebase" width="40" height="60"/>
+    </td>
+    <td align="center">JavaScript + APIs + Markup</td>
+  </tr> -->
+
+  <!-- NEXT -->
+  <!-- <tr>
+    <td align="center"><b>NEXT</b></td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/Next.Js.png" title="Next.js" alt="Next.js" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/Languages/TypeScript.png" title="TypeScript" alt="TypeScript" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/Databases/PostgreSQL.png" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>
+    </td>
+    <td align="center">Next.js + TypeScript + PostgreSQL</td>
+  </tr> -->
+
+  <!-- T3 -->
+  <!-- <tr>
+    <td align="center"><b>T3</b></td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/Next.Js.png" title="Next.js" alt="Next.js" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/Languages/TypeScript.png" title="TypeScript" alt="TypeScript" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/TailwindCSS.png" title="TailwindCSS" alt="TailwindCSS" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/Databases/Prisma.png" title="Prisma"alt="Prisma" width="50" height="60"/>
+    </td>
+    <td align="center">Next.js + TypeScript + Tailwind + Prisma</td>
+  </tr> -->
+
+  <!-- DJANGO -->
+  <!-- <tr>
+    <td align="center"><b>DJANGO</b></td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/Languages/Python.png" title="Python" alt="Python" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/Django.png" title="Django" alt="Django" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/Databases/PostgreSQL.png" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>
+    </td>
+    <td align="center">Python + Django + PostgreSQL</td>
+  </tr> -->
+
+  <!-- SPRING -->
+  <!-- <tr>
+    <td align="center"><b>SPRING</b></td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/Languages/Java.png" title="Java" alt="Java" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/SpringBoot.png" title="SpringBoot" alt="SpringBoot" width="55" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/Databases/PostgreSQL.png" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>
+    </td>
+    <td align="center">Java + Spring Boot + PostgreSQL</td>
+  </tr> -->
+
+  <!-- .NET -->
+  <!-- <tr>
+    <td align="center"><b>.NET</b></td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/Languages/CSharp.png" title="CSharp" alt="CSharp" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/ASP.net.png" title="ASP.net" alt="ASP.net" width="50" height="60"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/Databases/SQLServer.png" title="SQLServer" alt="SQLServer" width="60" height="60"/>
+    </td>
+    <td align="center">C# + ASP.NET Core + SQL Server</td>
+  </tr>
+</table> -->
+
 ---
 
 ## 📈 GitHub Activity Graph
