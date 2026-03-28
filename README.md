@@ -105,10 +105,10 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/LogosSkills/LibrariesAndFrameworks//Bootstrap.png" title="Bootstrap" alt="Bootstrap" width="60" height="65"/>
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/Bootstrap.png" title="Bootstrap" alt="Bootstrap" width="60" height="65"/>
     </td>
     <!-- <td align="center">
-      <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg" title="TailwindCSS" alt="Tailwind CSS" width="55" height="55" />
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/Bootstrap.png" title="TailwindCSS" alt="Tailwind CSS" width="55" height="55" />
     </td> -->
     <!-- <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="55" height="55"/>
@@ -128,6 +128,12 @@
     <!-- <td align="center">
       <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/Angular.Js.png" title="Angular.js" alt="Angular.js" width="60" height="65"/>
     </td> -->
+    <!-- <td align="center">
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/Next.Js.png" title="Next.js" alt="Next.js" width="60" height="65"/>
+    </td> -->
+    <!-- <td align="center">
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/Vue.Js.png" title="Vue.js" alt="Vue.js" width="60" height="65"/>
+    </td> -->
     <td align="center">
       <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/Laravel.png" title="Laravel" alt="Laravel" width="55" height="65"/>
     </td>
@@ -137,6 +143,12 @@
     <td align="center">
       <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/Tkinter.png" title="Tkinter" alt="Tkinter" width="55" height="60"/>
     </td>
+    <!-- <td align="center">
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/SpringBoot.png" title="Spring Boot" alt="Spring Boot" width="60" height="65"/>
+    </td> -->
+    <!-- <td align="center">
+      <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/LibrariesAndFrameworks/ASP.net.png" title="ASP.net" alt="ASP.net" width="60" height="65"/>
+    </td> -->
   </tr>
 </table>
 
@@ -338,8 +350,8 @@
       <img src="https://raw.githubusercontent.com/PR2309/PR2309/main/Logos/Skills/Databases/SQLServer.png" title="SQLServer" alt="SQLServer" width="60" height="60"/>
     </td>
     <td align="center">C# + ASP.NET Core + SQL Server</td>
-  </tr>
-</table> -->
+  </tr> -->
+</table>
 
 ---
 
